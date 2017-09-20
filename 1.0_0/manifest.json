@@ -1,0 +1,23 @@
+{
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtkD2Pp5WkCCifvH4INP3Mjt4RmopmXIAQsT+s4e+hzt/T32t3uK6N8x+GRHPuwdoysPq94wiM86EKoXFvD4wsCb0y2AheYldkeO080VvhfhCDzTJ+rpGQpzgyt+Rxmfk1Cc+R/UeFim2UtcnVWRNWf9gx5PvKqIdYbaC7cszyUG/VRfXV0X+dLB9tdEhXmPyXDtLAYk1fdvysyrTTrl+DFhzghNkzL6k7OlIEjAl9iRpG2awRkkQ4IfTmF16GerU2ZZ8Ov1HyIu6ss2kzV7sff5bx3C4GP4T1WWrjcJnt8D/2LgCad+IdVxLqGtmTfe+RGAO3ERj67FBLvVrtivuMQIDAQAB",
+   "manifest_version": 2,
+   "name": "pure dark",
+   "theme": {
+      "colors": {
+		"frame": [ 0, 0, 0 ]
+      },
+      "images": {
+         "theme_frame": "images/frame.png",
+         "theme_tab_background": "images/tab.png",
+         "theme_tab_background_incognito": "images/tab.png",
+         "theme_toolbar": "images/toolbar.png"
+      },
+      "tints": {
+         "buttons": [ 0, 0, 0.5 ],
+         "frame_inactive": [ -1, -1, -1 ],
+         "frame_incognito_inactive": [ -1, -1, -1 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}
