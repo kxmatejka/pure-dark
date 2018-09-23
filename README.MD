@@ -14,3 +14,7 @@ Pure black & white theme
 * select root "pure-dark/1.0_0/"
 * pack
 * drop file 1.0_0.crx to new tab in browser
+
+## Store
+
+[chrome](https://chrome.google.com/webstore/detail/pure-dark/nlmgiijgjklcohamoejaegggpnflhgpm)
