@@ -5,7 +5,7 @@ Purest google-chrome theme
 
 # Screenshot
 
-![pure dark](https://s3.eu-central-1.amazonaws.com/pub-image-storage/pure-dark-screen.png "pure dark")
+![pure dark](screenshot.png "pure dark")
 
 # Instalation
 
