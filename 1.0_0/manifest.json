@@ -1,10 +1,10 @@
 {
-   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtkD2Pp5WkCCifvH4INP3Mjt4RmopmXIAQsT+s4e+hzt/T32t3uK6N8x+GRHPuwdoysPq94wiM86EKoXFvD4wsCb0y2AheYldkeO080VvhfhCDzTJ+rpGQpzgyt+Rxmfk1Cc+R/UeFim2UtcnVWRNWf9gx5PvKqIdYbaC7cszyUG/VRfXV0X+dLB9tdEhXmPyXDtLAYk1fdvysyrTTrl+DFhzghNkzL6k7OlIEjAl9iRpG2awRkkQ4IfTmF16GerU2ZZ8Ov1HyIu6ss2kzV7sff5bx3C4GP4T1WWrjcJnt8D/2LgCad+IdVxLqGtmTfe+RGAO3ERj67FBLvVrtivuMQIDAQAB",
    "manifest_version": 2,
    "name": "pure dark",
+   "description": "Pure black & white theme",
    "theme": {
       "colors": {
-		"frame": [ 0, 0, 0 ]
+         "frame": [ 0, 0, 0 ]
       },
       "images": {
          "theme_frame": "images/frame.png",
